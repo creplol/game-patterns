@@ -50,6 +50,7 @@ namespace CommandPattern.RebindKeys
             buttonP = new DecreaseCube(objectThatExpands);
             
             startPos = objectThatMoves.transform.position;
+            
         }
 
 
